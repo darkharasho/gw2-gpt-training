@@ -54,11 +54,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "What level do I need to be to max my wvw masteries?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "The maximum level in World vs World is 10,000. Though, you do not need to reach this level to max out your WvW skills. In total, you will need to be rank 1,226 to max out every mastery line in World vs World.\nThere are many ways to gain levels, such as capturing objectives or defeating foes. For more detailed information, please visit https://wiki.guildwars2.com/wiki/World_Experience"
     }
   ]
 }
@@ -70,11 +70,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "What gear should I choose to use in Wold vs World?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "There are a variety of options and builds for World vs. World. Typically Legendary Armor and Weapons will give you the best experience, but ascended and exotic variants are more than good enough, especially to get started.\nYou can find specific builds and gears at sites like https://gw2mists.com/ or https://metabattle.com/wiki/MetaBattle_Wiki.\nIt is important to note, that the meta for builds shifts quite frequently, so the above sites are good options to keep up to date."
     }
   ]
 }
@@ -86,11 +86,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "What are some common terms and abbreviations for wvw?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "There are a myriad of terms and abbreviations for World vs World. Some common ones include RI or Righteous Indignation, meaning an NPC is invulnerable, or Sup for Supply.\nA full list of terms and abbreviations can be found at https://wiki.guildwars2.com/wiki/World_versus_World#Common_Terms_and_Abbreviations"
     }
   ]
 }
@@ -102,11 +102,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "What is the best way to get ascended gear?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "Typically, Ascended equipment is obtained through crafting. Ascended equipment generally requires an inscription/insignia, two crafted pieces, and a Vision Crystal.\nHowever, if you play end game content like World vs World, Player vs Player, Raids, Fractals, or Strikes you can obtain Ascended equipment through various currencies gained in those game modes.\nFor more information, please see https://wiki.guildwars2.com/wiki/Ascended_equipment"
     }
   ]
 }
@@ -118,11 +118,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "Whats the best way to get ascended trinkets?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "Ascended trinkets can be obtained through various means. Some can be obtained through crafting or bought with laurels, others can be purchased with end game currencies such as Skirmish Tickets in WvW or Pristine Fractal Relics.\nOften some of the cheapest Ascended trinkets can be obtained by farming Living World map currencies, such as Winterberries in Bitterfrost Frontier.\nFor more information please visit https://wiki.guildwars2.com/wiki/Ascended_trinket"
     }
   ]
 }
@@ -134,11 +134,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "How do I install ArcDPS?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "ArcDPS is a 3rd party addon to Guild Wars 2 that helps track player performance in both Open World and Competitive game modes.\nTo install ArcDPS first you must download the .dll from https://www.deltaconnected.com/arcdps/.\nNext you must put that file in your root Guild Wars 2 directory.\nOften, players will install additional addons on top of ArcDPS such as ArcDPS Healing Stats (https://github.com/Krappa322/arcdps_healing_stats) and Know Thy Enemy(https://github.com/typedeck0/Know-thy-enemy)\nIt is important to note, new changes and updates to the game can make ArcDPS crash. Typically it is best to remove the file and wait for an update at the links above after a patch."
     }
   ]
 }
@@ -150,11 +150,11 @@
     },
     {
       "role": "user",
-      "content": ""
+      "content": "How do I stat change ascended gear?"
     },
     {
       "role": "assistant",
-      "content": ""
+      "content": "Ascended weapons and armor can be put into the Mystic Forge to change the attribute bonuses of the item. These recipes create new items and destroy any upgrade component on the item in the process.\nStats on ascended rings that have selectable stats can be \"changed\" as a side result of the processes of infusing and attuning. Ascended back items can also be infused, although this process is more costly as it requires 250 Globs of Ectoplasms.\nSome special ascended trinkets have stat reset functionality, unique to them. See Stat changing for more details: https://wiki.guildwars2.com/wiki/Stat_changing"
     }
   ]
 }
