@@ -1,12 +1,18 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import os
+import openai
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+class FineTuner:
+    def __init__(self):
+        openai.api_key = os.getenv("OPENAI_API_KEY")
+
+    @staticmethod
+    def fine_tune(self, type):
+        openai.File.create(
+            file=open("mydata.jsonl", "rb"),
+            purpose='fine-tune'
+        )
+        openai.FineTuningJob.create(training_file="file-abc123", model="gpt-3.5-turbo")
 
 
 # Press the green button in the gutter to run the script.
